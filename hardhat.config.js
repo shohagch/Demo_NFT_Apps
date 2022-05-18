@@ -13,7 +13,11 @@ module.exports = {
       // url: `https://polygon-mainnet.infura.io/v3/${infuraId}`,
       url: "https://rpc-mumbai.matic.today",
       accounts: ['c82469cfefa0f953853dd76d779a5e9af0d7666fcbf2ebd93264f0c978d60da0']
-    }
+    },
+    fantom: {
+      url: "https://rpc.testnet.fantom.network",
+      accounts: ['c82469cfefa0f953853dd76d779a5e9af0d7666fcbf2ebd93264f0c978d60da0']
+    }   
     /*
     mumbai: {
       // Infura
